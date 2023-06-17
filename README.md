@@ -1,2 +1,0 @@
-# obsidianhgnjgh
-fgnfgnfng

@@ -8,14 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "25f34e91ce1302d1",
+            "id": "faaac686d91e887d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Drawing 2023-06-17 14.22.15.excalidraw.md"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Excalidraw/Drawing 2023-06-17 14.22.15.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Excalidraw/Drawing 2023-06-17 14.22.15.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Excalidraw/Drawing 2023-06-17 14.22.15.excalidraw.md"
               }
             }
           }
@@ -143,11 +141,15 @@
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "command-palette:打开命令面板": false,
+      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "25f34e91ce1302d1",
+  "active": "faaac686d91e887d",
   "lastOpenFiles": [
-    "README.md"
+    "README.md",
+    "Excalidraw/Drawing 2023-06-17 14.22.15.excalidraw.md",
+    "Excalidraw",
+    "未命名"
   ]
 }
